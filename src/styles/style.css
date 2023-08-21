@@ -219,7 +219,7 @@ span>a {
     width: 207px;
 }
 
-.card-pessoa:hover {
+.efeito:hover {
     cursor: pointer;
     background: #c5d0d82f;
     filter: initial;
