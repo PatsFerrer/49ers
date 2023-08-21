@@ -126,7 +126,7 @@ span>a {
 
 
 /* site 49ers
-    cards abaixo pagina de cadastro
+    cards página de cadastro
 */
 
 .img-card {
@@ -147,10 +147,14 @@ span>a {
     text-align: center;
 }
 
-/* cards profissionais */
+/* cards página profissionais */
+
+.barra-pesquisar {
+    max-width: 1253px;
+}
 
 .sessão-profissionais {
-    max-width: 1030px;
+    max-width: 1320px;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -231,5 +235,4 @@ span>a {
     box-shadow: 1px 1px #1F3D8D,
         2px 2px #1F3D8D;
     transform: translateX(-1px);
-    
 }

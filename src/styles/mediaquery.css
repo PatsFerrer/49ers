@@ -44,6 +44,26 @@
   .col-md-5 {
     flex: 0 0 auto;
     width: 69%;
-}
+  }
 }
 
+@media screen and (max-width: 1261px) {
+
+  .barra-pesquisar {
+    max-width: 945px;
+  }
+}
+
+@media screen and (max-width: 951px) {
+
+  .barra-pesquisar {
+    max-width: 634px;
+  }
+}
+
+@media screen and (max-width: 633px) {
+
+  .barra-pesquisar {
+    max-width: 595px;
+  }
+}
